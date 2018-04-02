@@ -1,0 +1,95 @@
+
+/*start tow */
+.temp   {
+    float: left;
+    width:30% ;
+   margin: 10px 38px 10px 0
+}
+.temp span {
+    font-size: 100px
+}
+.temp span i:hover{
+    color: #E5474B
+}
+.temp h2 {
+    color: #E5474B
+}
+.temp p {
+    letter-spacing: 1px;
+    color: #717171;
+    margin: 10px 72px 50px 0;
+    line-height: 31px
+}
+.temp button {
+    color:#E5474B;
+    padding: 10px 40px;
+    font-weight: bold;
+    border: 2px solid#E5474B;
+    background: none;
+}
+.temp button:hover {
+    background-color: rgb(252, 239, 240)
+}
+
+/* end tow */
+
+/*start three*/
+#three {
+    background-color: #E5474B;
+    color: white;
+    margin: 45px 0 0 0
+}
+#three h2 {
+    padding: 10px;
+    margin: 25px 0 10px 0
+}
+#three input {
+    text-decoration: none;
+    background-color: #E5474B;
+    display: block;
+    font-size: 18px;
+    border: 3px solid rgb(236, 117, 120);
+}
+#three label {
+    margin: 20px 0 25px 0
+}
+ #three .inp1 {
+    float: left;
+    width: 50%
+
+}
+#name,#email {
+    width: 500px;
+    line-height: 30px
+}
+
+#text {
+    display: block;
+    background-color: #E5474B;
+    border: 3px solid rgb(236, 117, 120);
+    width:94%
+
+}
+#massage {
+    background-color: #E5474B;
+    padding: 10px 40px;
+    font-size: 15px;
+    margin: 25px 0 10px 0;
+    border: 2px solid white
+}
+#massage:hover {
+    color: #E5474B;
+    border: 2px solid #E5474B;
+    background: white;
+    font-weight: bold;
+}
+/*end three*/
+
+/* start footer */
+footer {
+    background-color: #E5474B;
+    padding: 50px;
+    text-align: center;
+    font-size: 18px
+} 
+/* end footer */
